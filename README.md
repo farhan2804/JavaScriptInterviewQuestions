@@ -1,1 +1,1 @@
-# JavaScript Interview Questions Prcatice
+# JavaScript Interview Questions Practice

@@ -23,6 +23,9 @@
 // person2.printName();
 
 // person3.printName();
+//show the null condition
+
+// console.log(Object.getPrototypeOf(Object.getPrototypeOf(person1)));
 
 //function example
 
